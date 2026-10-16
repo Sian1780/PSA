@@ -1,0 +1,14 @@
+Dog,Fionny,7,Black,11.0,Labrador
+Bird,Tweety,2,Yellow,1.2,0.5
+Dog,Fluffy,1,Yellow,15.0,Lab
+Fish,Bubbles,3,pink,0.5,fresh
+Dog,Fluff,2,Black,4.0,PomPom
+Dog,Suga,2,Black,5.0,Lab
+Dolphin,Swimmer,3,Blue,23.0,14.0
+Dog,Rexy,4,Yellow,12.0,Labrador
+Dog,Flump,2,White,5.0,PomPom
+Dog,Cherry,3,Brown,2.0,Labrador
+Dog,Flumpy,22,Black,2.0,Labrador
+Dog,Straw,1,Yellow,2.0,Labrador
+Dog,Leia,5,White,14.0,Husky
+Dog,Leya,2,White,11.0,Husky
